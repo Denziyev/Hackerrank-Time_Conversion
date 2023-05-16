@@ -1,0 +1,15 @@
+C:\Users\VO\Desktop\Hackerrank\Hackerrank-Time_Conversion\Hackerrank-Time_Conversion\bin\Debug\net7.0\Hackerrank-Time_Conversion.exe
+C:\Users\VO\Desktop\Hackerrank\Hackerrank-Time_Conversion\Hackerrank-Time_Conversion\bin\Debug\net7.0\Hackerrank-Time_Conversion.deps.json
+C:\Users\VO\Desktop\Hackerrank\Hackerrank-Time_Conversion\Hackerrank-Time_Conversion\bin\Debug\net7.0\Hackerrank-Time_Conversion.runtimeconfig.json
+C:\Users\VO\Desktop\Hackerrank\Hackerrank-Time_Conversion\Hackerrank-Time_Conversion\bin\Debug\net7.0\Hackerrank-Time_Conversion.dll
+C:\Users\VO\Desktop\Hackerrank\Hackerrank-Time_Conversion\Hackerrank-Time_Conversion\bin\Debug\net7.0\Hackerrank-Time_Conversion.pdb
+C:\Users\VO\Desktop\Hackerrank\Hackerrank-Time_Conversion\Hackerrank-Time_Conversion\obj\Debug\net7.0\Hackerrank-Time_Conversion.csproj.AssemblyReference.cache
+C:\Users\VO\Desktop\Hackerrank\Hackerrank-Time_Conversion\Hackerrank-Time_Conversion\obj\Debug\net7.0\Hackerrank-Time_Conversion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\VO\Desktop\Hackerrank\Hackerrank-Time_Conversion\Hackerrank-Time_Conversion\obj\Debug\net7.0\Hackerrank-Time_Conversion.AssemblyInfoInputs.cache
+C:\Users\VO\Desktop\Hackerrank\Hackerrank-Time_Conversion\Hackerrank-Time_Conversion\obj\Debug\net7.0\Hackerrank-Time_Conversion.AssemblyInfo.cs
+C:\Users\VO\Desktop\Hackerrank\Hackerrank-Time_Conversion\Hackerrank-Time_Conversion\obj\Debug\net7.0\Hackerrank-Time_Conversion.csproj.CoreCompileInputs.cache
+C:\Users\VO\Desktop\Hackerrank\Hackerrank-Time_Conversion\Hackerrank-Time_Conversion\obj\Debug\net7.0\Hackerrank-Time_Conversion.dll
+C:\Users\VO\Desktop\Hackerrank\Hackerrank-Time_Conversion\Hackerrank-Time_Conversion\obj\Debug\net7.0\refint\Hackerrank-Time_Conversion.dll
+C:\Users\VO\Desktop\Hackerrank\Hackerrank-Time_Conversion\Hackerrank-Time_Conversion\obj\Debug\net7.0\Hackerrank-Time_Conversion.pdb
+C:\Users\VO\Desktop\Hackerrank\Hackerrank-Time_Conversion\Hackerrank-Time_Conversion\obj\Debug\net7.0\Hackerrank-Time_Conversion.genruntimeconfig.cache
+C:\Users\VO\Desktop\Hackerrank\Hackerrank-Time_Conversion\Hackerrank-Time_Conversion\obj\Debug\net7.0\ref\Hackerrank-Time_Conversion.dll
